@@ -1,0 +1,174 @@
+
+*,body,html{
+	margin: 0;
+	padding: 0;	
+	font-family: 'Roboto', sans-serif !important;
+}
+
+.logo{
+	width: 50%;
+	text-align: center;
+}
+
+.main-menu {
+	margin: 0px auto;
+}
+
+.main-menu .nav-item {
+	text-align: center
+		margin: 10px;
+}
+
+
+
+
+.btn {
+	margin-right: 10px;
+	background-color: #242261;
+	color: #fff;
+	font-weight: 500;
+	border: none;
+	-webkit-transition: .5s all linear;
+	-moz-transition: .5s all linear;
+	-ms-transition: .5s all linear;
+	-o-transition: .5s all linear;
+	transition: .5s all linear;
+	
+}
+
+.btn:hover, .btn:focus {
+	background-color: #FF4501;
+	color: #fff;
+	border: none;
+	-webkit-transition: .5s all linear;
+	-moz-transition: .5s all linear;
+	-ms-transition: .5s all linear;
+	-o-transition: .5s all linear;
+	transition: .5s all linear;
+	outline: 0;
+	box-shadow: none;
+}
+
+
+
+/*home css*/
+
+.home {
+	padding: 25px 0px 0px 0px;
+}
+
+.home .home-contant {
+
+}
+
+.home .home-contant .heading {
+
+}
+
+.home .home-contant .heading h1 {
+	font-size: 62px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.home .home-contant .heading h3 {
+	font-size: 48px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.home .home-contant .heading h4 {
+	font-size: 26px;
+	font-weight: 400;
+}
+
+.home .home-contant .law-list {
+	margin: 0;
+	padding: 15px 0px;
+}
+
+.home .home-contant .law-list ul {
+	list-style: none;
+	padding: 0;
+}
+
+.home .home-contant .law-list ul li {
+	font-size: 20px;
+	display: inline-flex;
+}
+
+.home .home-contant .law-list ul li span {
+	margin-right: 10px;
+}
+
+.home .home-contant .law-list ul li span img {
+	width: 13px;
+}
+
+.service {
+	background-color: rgba(255,69,1,.8);
+	padding: 40px 0px;
+}
+
+.service .heading {
+	padding-top: 20px;
+}
+
+.service .heading h1 {
+	color: #ffffff;
+	font-weight: 900;
+}
+
+.service .card {
+	height: 210px;
+	border-radius: 10px;
+}
+
+.service .card .card-body .card-title {
+	font-weight: 700;
+}
+
+.service .card .card-body .card-text {
+	font-weight: 400;
+}
+
+.immigration-zone {
+	padding: 45px 0px;
+}
+
+.zone-img {
+	margin-top: 5px;
+}
+
+.immigration-zone-contant {
+
+}
+
+.immigration-zone-contant h1 {
+	font-size: 48px;
+}
+
+.immigration-zone-contant p {
+	font-size: 23px;
+}
+
+.immigration-zone-contant p span {
+	font-weight: 500;
+}
+
+.immigration-zone .sound {
+	
+}
+
+.immigration-zone .sound iframe {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.immigration-zone .sound p {
+	font-size: 23px;
+}
+
+.immigration-zone .sound a {
+	padding: 20px;
+}
